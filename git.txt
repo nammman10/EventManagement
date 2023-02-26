@@ -1,0 +1,5 @@
+git status
+git diff FILE_PATH
+git add FILE_PATH
+git commit -m "COMMIT MESSAGE"
+git push origin BRANCH_NAME
